@@ -1,4 +1,4 @@
-# ComputerVision
+# OpenCV 기초 실습
 
 ## file1.py
 ![file1_result](./results/file1_result.JPG)
