@@ -7,4 +7,4 @@
 - edge_detection.md 파일 확인
 
 ## 피쳐와 매칭 실습
--  features_and_fitting.md 파일 확인
+- features_and_fitting.md 파일 확인
