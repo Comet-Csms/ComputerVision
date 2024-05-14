@@ -10,4 +10,4 @@
 - features_and_fitting.md 파일 확인
 
 ## Deep Learning Vision 실습
-- deep_learning_visio.md 파일 확인
+- deep_learning_vision.md 파일 확인
