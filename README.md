@@ -11,3 +11,6 @@
 
 ## Deep Learning Vision 실습
 - deep_learning_vision.md 파일 확인
+
+## Convolutional Neural Network 실습
+- convolutional_neural_network.md 파일 확인
