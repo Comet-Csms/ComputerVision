@@ -14,3 +14,6 @@
 
 ## Convolutional Neural Network 실습
 - convolutional_neural_network.md 파일 확인
+
+## Recognition 실습
+- recognition.md 파일 확인
